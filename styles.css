@@ -1,4 +1,8 @@
-::root{
+:root{
+	/* Color Variables */
 	
-	
+
+    /* Font */
+    --font: '';
 }
+
