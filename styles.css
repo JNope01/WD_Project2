@@ -30,6 +30,7 @@ h1.title{
     font-family: 'rockSalt';
 }
 
+<<<<<<< HEAD
 
 div.Pictures {
     text-align: center;
@@ -42,4 +43,9 @@ div.Pictures {
     margin: 100px;
 }
 
+=======
+.jumbotron{
+    background: image('images/logo.jpeg');
+    
+>>>>>>> f0e5c640ef11d84d01a90edd533219841328745b
 }
