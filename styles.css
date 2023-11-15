@@ -29,3 +29,8 @@ h1.header{
 h1.title{
     font-family: 'rockSalt';
 }
+
+.jumbotron{
+    background: image('images/logo.jpeg');
+    
+}
