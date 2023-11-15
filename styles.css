@@ -22,30 +22,16 @@
     font-style: normal;
 }
 
-h1.header{
+headerText{
     font-family: 'danielReg';
+    color: var(--tan);
 }
 
-h1.title{
+.titleText{
     font-family: 'rockSalt';
 }
 
-<<<<<<< HEAD
-
-div.Pictures {
-    text-align: center;
-
-
-
-
- img {
-    width: 200px;
-    margin: 100px;
-}
-
-=======
 .jumbotron{
     background: image('images/logo.jpeg');
     
->>>>>>> f0e5c640ef11d84d01a90edd533219841328745b
 }
