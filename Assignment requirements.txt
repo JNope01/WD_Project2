@@ -1,0 +1,11 @@
+
+
+
+Bootstrap mobile ready or first function (see lesson)
+Bootstrap and CSS MAXCDN (w3schools.com)
+Bootstrap table
+Bootstrap Images
+Bootstrap JumboTron
+Bootstrap Buttons or Dropdown menu-------------------------Check Jonathan
+Bootstrap form on Contact Us page.-------------------------Check Jonathan
+Bootstrap Pagination and Pager-----------------------------Check Jonathan
