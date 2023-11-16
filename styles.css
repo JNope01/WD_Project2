@@ -8,6 +8,7 @@
     --font: '';
 }
 
+/*font-face reference section*/
 @font-face {
     font-family: 'danielReg';
     src: url('font/Daniel-Regular-webfont.woff') format('woff');
@@ -20,15 +21,6 @@
     src: url('font/RockSalt-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
-
-headerText{
-    font-family: 'danielReg';
-    color: var(--tan);
-}
-
-.titleText{
-    font-family: 'rockSalt';
 }
 
 .jumbotron{
