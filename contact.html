@@ -62,7 +62,7 @@
             </div>
         <form>
             <!--Contact Us Form: Jonathan Nope-->
-            <div class="d-flex justify-content-center">
+            <div class="d-flex justify-content-center"><!--First & Last Name-->
                 <div class="form-inline">
                     <label for="fName">First Name:</label>
                     <input type="text" class="form-control" id="fName" placeholder="Enter First Name" name="fName" required>
@@ -74,8 +74,9 @@
                     <div class="valid-feedback">Valid.</div>
                     <div class="invalid-feedback">Please fill out this field.</div>
                 </div><!--Form-inline-->
-            </div>
-            <div class="d-flex justify-content-center">
+            </div><!--d-flex-center-->
+            
+            <div class="d-flex justify-content-center"><!--Email and Photo Package-->
                 <div class="form-inline">
                     <label for="email">Email:</label>
                     <input type="text" class="form-control" id="email" placeholder="Enter email" name="email" required>
@@ -93,8 +94,16 @@
                         <option value="info">General Information</option>
                       </select>
                 </div><!--Form-inline-->
-            </div>
-            <div class="d-flex justify-content-center">
+
+            </div><!--d-flex-center-->
+            <div class="d-flex justify-content-center"><!--Comments-->
+                <div class="form-group">
+                    <label for="comment">Comment:</label>
+                    <textarea class="form-control" rows="5" id="comment"></textarea>
+                  </div>
+            </div><!--d-flex-center-->
+
+            <div class="d-flex justify-content-center"><!--Submit-->
                 <div>
                     <button type="button" class="btn btn-outline-dark">Submit</button>
                 </div>
