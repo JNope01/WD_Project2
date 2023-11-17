@@ -2,8 +2,8 @@
 
 
 Bootstrap mobile ready or first function (see lesson)
-Bootstrap and CSS MAXCDN (w3schools.com)
-Bootstrap table
+Bootstrap and CSS MAXCDN (w3schools.com)-------------------Check all pages
+Bootstrap table--------------------------------------------Check contact
 Bootstrap Images-------------------------------------------Check header all pages
 Bootstrap JumboTron----------------------------------------Check contact
 Bootstrap Buttons or Dropdown menu-------------------------Check navbar all pages
