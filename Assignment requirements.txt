@@ -1,7 +1,4 @@
-
-
-
-Bootstrap mobile ready or first function (see lesson)
+Bootstrap mobile ready or first function (see lesson)------Check all pages
 Bootstrap and CSS MAXCDN (w3schools.com)-------------------Check all pages
 Bootstrap table--------------------------------------------Check contact
 Bootstrap Images-------------------------------------------Check header all pages
