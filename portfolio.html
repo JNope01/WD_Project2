@@ -36,6 +36,11 @@
                 font-weight: normal;
                 font-style: normal;
             }
+
+            div.dropdown{
+                margin-left: 30px;
+                
+            }
             div.Season{
                 h2 {
              
@@ -47,16 +52,15 @@
             }
            
             .image-list{
-                width: 735px;
-                margin-left: auto;
-                margin-right: auto;
+                width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
             }
             
-            .image-list2{
-                width: 735px;
-                margin-left: auto;
-                margin-right: auto;
-            }
+            
            
             .image{
                 width: 225px;
@@ -70,9 +74,13 @@
                 margin-top: 30px;
             }
             .image-name{
-                margin-top: 20px;
+                margin-top: 10px;
                 margin-bottom : 4px;
+                font-family: 'rockSalt';
             }
+           
+
+
         </style>
 
     </head>
@@ -88,13 +96,21 @@
                         <a class="btn btn-dark" href="contact.html">Contact Us</a>
             </div>
         </div>
+<!-- Portfolio by: Youngmin Kim-->
         
-        <!-- Portfolio by: Youngmin Kim-->
-        <div class="Season">
-            <h1>
-                <center>Season</center>
-            </h1>
-        </div>
+        
+        
+        <h2 class="d-flex justify-content-center" style="font-family: 'rockSalt'; font-size: 50px; color: var(--tan);">Portfolio</h2>
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Filter
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item" href="#">landscapes</a>
+              <a class="dropdown-item" href="#">animals</a>
+              <a class="dropdown-item" href="#">all</a>
+            </div>
+          </div>
         <div class="image-list">
             <a href = "#" class = "image">
                 <img src = "images/Spring.jpg" width="225">
@@ -119,20 +135,16 @@
         Winter in Utah
     </div>
     <a href = "#" class = "image">
-        <img src = "images/Wolf.jpg" width="225">
+        <img src = "images/SaltLake.jpg" width="225">
 <div class = "image-name">
-    Wolf
+    Drone view of Salt Lake City
 </div>
     <a href = "#" class = "image">
-        <img src = "images/Bear.jpg" width="225">
+        <img src = "images/SaltLake1.jpg" width="225">
 <div class = "image-name">
-    Bear
+    SaltLake
 </div>
-</div>
 
-
-
-<div class="image-list2">
 <a href = "#" class = "image">
     <img src = "images/Dog.jpg" width="225">
 <div class = "image-name">
@@ -169,9 +181,11 @@ Horse
 
 
 
-        <hr>
+
+
+       
         <div><!--Footer By: Jonathan Nope-->
-            <h5 class="d-flex justify-content-center"><br>© 2023 WildFrame Photography. All Rights Reserved.</h5>
+            <h5 class="d-flex justify-content-center">© 2023 WildFrame Photography. All Rights Reserved.</h5>
             <h6 class="d-flex justify-content-center">WildFrame Photography is a fake company created for a school project</h6>
             <h6 class="d-flex justify-content-center">any resemblance to any organization or group is purely coincidental.</h6>
         </div><!--Footer-->
