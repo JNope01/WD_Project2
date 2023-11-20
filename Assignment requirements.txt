@@ -1,8 +1,8 @@
 Bootstrap mobile ready or first function (see lesson)------Check all pages
 Bootstrap and CSS MAXCDN (w3schools.com)-------------------Check all pages
-Bootstrap table--------------------------------------------Check contact
+Bootstrap table--------------------------------------------Check index
 Bootstrap Images-------------------------------------------Check header all pages
-Bootstrap JumboTron----------------------------------------Check contact
-Bootstrap Buttons or Dropdown menu-------------------------Check navbar all pages
+Bootstrap JumboTron----------------------------------------Check contact index
+Bootstrap Buttons or Dropdown menu-------------------------Check navbar all pages portfolio
 Bootstrap form on Contact Us page.-------------------------Check contact
 Bootstrap Pagination and Pager-----------------------------Check reviews
